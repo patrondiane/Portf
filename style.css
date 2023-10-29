@@ -129,7 +129,7 @@ b{
 	height: 4px;
 	width: 45px;
 	bottom: 10px;
-	background-color:  #7f00ff;
+	background-color:  rgb(127, 0, 255);
 }
 h1{
 	display: block;
@@ -211,3 +211,4 @@ button:hover{
 		top: -90px;
 	}
 }
+
