@@ -311,11 +311,15 @@ button {
 }
 
 /* Styling */
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
 .timeline {
     margin: 4em auto;
     position: relative;
     max-width: 46em;
-    }
+}
   
 .timeline:before {
 background-color: #007bff; /* Remplacez par votre couleur */
